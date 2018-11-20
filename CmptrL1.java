@@ -1,6 +1,6 @@
 /*
  * Computer PA01
- * Matt Packwood, Orchard Ridge, Monday Evening Class, Fall Semester 2003
+ * Matt Packwood, OCC - Orchard Ridge campus, Monday Evening Class, Fall Semester 2003
  * Java code start; based on design diagram start
  * assumes 369x369 applet screen size 
  *
