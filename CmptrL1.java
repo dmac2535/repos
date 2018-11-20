@@ -14,7 +14,7 @@ public void init ( ) {
 	setBackground (Color.white); // white BG
 	}
 public void paint (Graphics g) {
-	g.setColor (Color.yellow);
+	g.setColor (Color.blue);
 	g.fillRect (36, 0, 288, 216); // monitor
 	g.fillRect (0, 216, 360, 72); // CPU
 	g.fillRect (0, 288, 288, 72); // keyboard
